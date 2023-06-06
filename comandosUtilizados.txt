@@ -1,0 +1,32 @@
+  118  git log
+  119  git init
+  120  git remote add origin https://github.com/cecorrea1/20230605-CeciliaCorrea.git
+  121  git remote -v
+  122  touch comandos.txt main.js index.html
+  123  git add .
+  124  git commit -m "commit 01 de CeciliaCorrea"
+  125  git push origin main
+  126  git checkout feature01
+  127  git checkout 'feature01'
+  128  git checkout "feature01"
+  129  git branch feature01
+  130  git branch
+  131  git checkout feature01
+  132  mkdir Terminal Hardware
+  133  cd Terminal/
+  134  touch resumen.txt
+  135  cd ..
+  136  cd Hardware/
+  137  touch resumen.txt
+  138  cd ..
+  139  git add .
+  140  git commit -m "commit 02 de CeciliaCorrea"
+  141  git push origin feature01
+  142  git branch feature02
+  143  git checkout feature02
+  144  git add .
+  145  git commit -m "commit 03 de CeciliaCorrea"
+  146  git push origin feature02
+  147  git checkout main
+  148  mv comandos.txt comandosUtilizados.txt
+  149  history
