@@ -1,0 +1,7 @@
+5 comandos aprendidos en clase: 
+
+1. comando mkdir crea una nueva carpeta 
+2. comando pwd muestra donde estamos 
+3. comando cd cambia de carpeta a la que se le indique
+4. comando cd .. vuelve un nivel atrás de carpeta 
+5. comando ls nos da una lista de los archivos en la carpeta en la que estamos 
